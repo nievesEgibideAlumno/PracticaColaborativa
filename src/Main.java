@@ -13,4 +13,6 @@ public class Main {
         }
     }
     public static void f1a1(){}
+    public static void f1a2(){}
+
 }
